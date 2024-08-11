@@ -25,3 +25,7 @@ Once Massscan has been cloned and the zip extracted, the attack command is as fo
 python3 LulZ_41m4r11.py -i ip.txt -p 1-65535 --rate 2000
 
 Before starting scanning, open the ip.txt file and enter the IPs you want to scan
+![aimar](https://github.com/user-attachments/assets/0d02244b-0528-4783-a22b-3bf993834e83)
+
+![aimar2](https://github.com/user-attachments/assets/0119348e-5873-4b45-8a98-b77b68b35ca9)
+
