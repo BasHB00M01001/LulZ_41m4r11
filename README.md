@@ -9,7 +9,7 @@ Para utilizar esta herramienta tienes que clonar dentro de esta carpeta estos re
 
 Una vez clonado Massscan y extraidos los zip el comando de ataque es el siguiente;
 
-python3 LulZ_41m4r11.py -i ip.txt -p 1-65535 --rate 2000
+python3 LulZ_Ⓐ1mⒶr11.py -i ip.txt -p 1-65535 --rate 2000
 
 Antes de iniciar scaneo abrir el archivo ip.txt e introducir las Ips que se quiera scanear
 
@@ -22,7 +22,7 @@ To use this tool you have to clone these repositories inside this folder;
 
 Once Massscan has been cloned and the zip extracted, the attack command is as follows;
 
-python3 LulZ_41m4r11.py -i ip.txt -p 1-65535 --rate 2000
+python3 LulZ_Ⓐ1mⒶr11.py -i ip.txt -p 1-65535 --rate 2000
 
 Before starting scanning, open the ip.txt file and enter the IPs you want to scan
 ![aimar](https://github.com/user-attachments/assets/0d02244b-0528-4783-a22b-3bf993834e83)
